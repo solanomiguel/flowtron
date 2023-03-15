@@ -29,6 +29,7 @@
     },
     "data_config": {
         "training_files": "filelists/filelist_train.txt",
+        "validation_files": "filelists/filelist_train.txt",
         "text_cleaners": [
             "flowtron_cleaners"
         ],
