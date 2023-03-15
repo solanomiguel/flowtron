@@ -13,13 +13,17 @@
         "checkpoint_path": "",
         "ignore_layers": [],
         "finetune_layers": [],
-        "include_layers": ["speaker", "encoder", "embedding"],
+        "include_layers": [
+            "speaker",
+            "encoder",
+            "embedding"
+        ],
         "warmstart_checkpoint_path": "",
         "with_tensorboard": true,
         "fp16_run": true
     },
     "data_config": {
-        "training_files": "filelists/libritts_train_clean_100_audiopath_text_sid_atleast5min_val_filelist.txt",
+        "training_files": "filelists/filelist_train.txt",
         "text_cleaners": [],
         "p_arpabet": 0.5,
         "cmudict_path": "data/cmudict_dictionary",
