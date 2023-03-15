@@ -1,5 +1,0 @@
-./speech-training-data/audio/415_<speak><prosody rate="medium" pitch="5st">"How about a little midnight snack?".wav|How about a little midnight snack?|0
-./speech-training-data/audio/100_<speak><prosody rate="medium" pitch="5st">"It's nothing personal.".wav|It's nothing personal.|0
-./speech-training-data/audio/90_<speak><prosody rate="medium" pitch="5st">"You think I'm weak because I'm not like you.".wav|You think I'm weak because I'm not like you.|0
-./speech-training-data/audio/188_<speak><prosody rate="medium" pitch="5st">"I will kill you if i have to.".wav|I will kill you if i have to.|0
-./speech-training-data/audio/128_<speak><prosody rate="medium" pitch="5st">"You got me flowers?".wav|You got me flowers?|0
