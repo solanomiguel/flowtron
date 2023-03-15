@@ -1,0 +1,495 @@
+./speech-training-data/audio/311_<speak><prosody rate="medium" pitch="5st">"Let me make it up to you.".wav|Let me make it up to you.|0
+./speech-training-data/audio/430_<speak><prosody rate="medium" pitch="5st">"Can you kill?".wav|Can you kill?|0
+./speech-training-data/audio/55_<speak><prosody rate="medium" pitch="5st">"There was blood everywhere.".wav|There was blood everywhere.|0
+./speech-training-data/audio/408_<speak><prosody rate="medium" pitch="5st">"You're clearly not okay so stop bullshitting me.".wav|You're clearly not okay so stop bullshitting me.|0
+./speech-training-data/audio/142_<speak><prosody rate="medium" pitch="5st">"Pull your head out of the past.".wav|Pull your head out of the past.|0
+./speech-training-data/audio/277_<speak><prosody rate="medium" pitch="5st">"Tell me something about you that I don't know.".wav|Tell me something about you that I don't know.|0
+./speech-training-data/audio/473_<speak><prosody rate="medium" pitch="5st">"I had my suspicions but I wasn't sure until now.".wav|I had my suspicions but I wasn't sure until now.|0
+./speech-training-data/audio/315_<speak><prosody rate="medium" pitch="5st">"I don't want you to be alone.".wav|I don't want you to be alone.|0
+./speech-training-data/audio/227_<speak><prosody rate="medium" pitch="5st">"I did what I had to do to survive!".wav|I did what I had to do to survive!|0
+./speech-training-data/audio/412_<speak><prosody rate="medium" pitch="5st">"How did you afford this?".wav|How did you afford this?|0
+./speech-training-data/audio/467_<speak><prosody rate="medium" pitch="5st">"Yes I killed them. But I did it for you.".wav|Yes I killed them. But I did it for you.|0
+./speech-training-data/audio/338_<speak><prosody rate="medium" pitch="5st">"How long have I been asleep?".wav|How long have I been asleep?|0
+./speech-training-data/audio/371_<speak><prosody rate="medium" pitch="5st">"Give me one good reason why I should believe you.".wav|Give me one good reason why I should believe you.|0
+./speech-training-data/audio/34_<speak><prosody rate="medium" pitch="5st">"I've been thinking about you a lot lately.".wav|I've been thinking about you a lot lately.|0
+./speech-training-data/audio/409_<speak><prosody rate="medium" pitch="5st">"I would never lie to you.".wav|I would never lie to you.|0
+./speech-training-data/audio/25_<speak><prosody rate="medium" pitch="5st">"This is the part where you leave.".wav|This is the part where you leave.|0
+./speech-training-data/audio/368_<speak><prosody rate="medium" pitch="5st">"We're on the same team.".wav|We're on the same team.|0
+./speech-training-data/audio/7_<speak><prosody rate="medium" pitch="5st">"Why does it always have to be a fight with you?".wav|Why does it always have to be a fight with you?|0
+./speech-training-data/audio/359_<speak><prosody rate="medium" pitch="5st">"I just wanted to see you smile again.".wav|I just wanted to see you smile again.|0
+./speech-training-data/audio/404_<speak><prosody rate="medium" pitch="5st">"What are you trying to prove?".wav|What are you trying to prove?|0
+./speech-training-data/audio/64_<speak><prosody rate="medium" pitch="5st">"I never want to see you again.".wav|I never want to see you again.|0
+./speech-training-data/audio/356_<speak><prosody rate="medium" pitch="5st">"It could've been a lot worse.".wav|It could've been a lot worse.|0
+./speech-training-data/audio/123_<speak><prosody rate="medium" pitch="5st">"I'm gonna take care of this but until I do I got to get you somewhere safe.".wav|I'm gonna take care of this but until I do I got to get you somewhere safe.|0
+./speech-training-data/audio/435_<speak><prosody rate="medium" pitch="5st">"Will you stay with me? Just for tonight.".wav|Will you stay with me? Just for tonight.|0
+./speech-training-data/audio/117_<speak><prosody rate="medium" pitch="5st">"I didn't want to come here but I need your help.".wav|I didn't want to come here but I need your help.|0
+./speech-training-data/audio/395_<speak><prosody rate="medium" pitch="5st">"You stepped on my foot!".wav|You stepped on my foot!|0
+./speech-training-data/audio/75_<speak><prosody rate="medium" pitch="5st">"If you have something to say spit it out.".wav|If you have something to say spit it out.|0
+./speech-training-data/audio/220_<speak><prosody rate="medium" pitch="5st">"Midnight on the bridge. Come alone.".wav|Midnight on the bridge. Come alone.|0
+./speech-training-data/audio/217_<speak><prosody rate="medium" pitch="5st">"For some reason I'm attracted to you.".wav|For some reason I'm attracted to you.|0
+./speech-training-data/audio/82_<speak><prosody rate="medium" pitch="5st">"Where have you been?".wav|Where have you been?|0
+./speech-training-data/audio/170_<speak><prosody rate="medium" pitch="5st">"I'm not sure what I'm supposed to feel.".wav|I'm not sure what I'm supposed to feel.|0
+./speech-training-data/audio/230_<speak><prosody rate="medium" pitch="5st">"I promise I'll never hurt you again.".wav|I promise I'll never hurt you again.|0
+./speech-training-data/audio/421_<speak><prosody rate="medium" pitch="5st">"Could you be happy here with me?".wav|Could you be happy here with me?|0
+./speech-training-data/audio/228_<speak><prosody rate="medium" pitch="5st">"Don't shut me out. Please.".wav|Don't shut me out. Please.|0
+./speech-training-data/audio/344_<speak><prosody rate="medium" pitch="5st">"It's rare to see your kind around here.".wav|It's rare to see your kind around here.|0
+./speech-training-data/audio/50_<speak><prosody rate="medium" pitch="5st">"Why do you care? You could've just walked away.".wav|Why do you care? You could've just walked away.|0
+./speech-training-data/audio/493_<speak><prosody rate="medium" pitch="5st">"Care to join me for a bit?".wav|Care to join me for a bit?|0
+./speech-training-data/audio/474_<speak><prosody rate="medium" pitch="5st">"Should I kiss it better?".wav|Should I kiss it better?|0
+./speech-training-data/audio/69_<speak><prosody rate="medium" pitch="5st">"Sorry I haven't checked my phone all day.".wav|Sorry I haven't checked my phone all day.|0
+./speech-training-data/audio/83_<speak><prosody rate="medium" pitch="5st">"I haven't kissed you yet today.".wav|I haven't kissed you yet today.|0
+./speech-training-data/audio/279_<speak><prosody rate="medium" pitch="5st">"You can relax. We're safe here.".wav|You can relax. We're safe here.|0
+./speech-training-data/audio/59_<speak><prosody rate="medium" pitch="5st">"You're not getting rid of me that easily.".wav|You're not getting rid of me that easily.|0
+./speech-training-data/audio/180_<speak><prosody rate="medium" pitch="5st">"I made a mistake.".wav|I made a mistake.|0
+./speech-training-data/audio/341_<speak><prosody rate="medium" pitch="5st">"You're the only one that can help me.".wav|You're the only one that can help me.|0
+./speech-training-data/audio/153_<speak><prosody rate="medium" pitch="5st">"Do I frighten you?".wav|Do I frighten you?|0
+./speech-training-data/audio/294_<speak><prosody rate="medium" pitch="5st">"I'm not leaving you.".wav|I'm not leaving you.|0
+./speech-training-data/audio/13_<speak><prosody rate="medium" pitch="5st">"They're better off without me. But I guess that's their choice.".wav|They're better off without me. But I guess that's their choice.|0
+./speech-training-data/audio/482_<speak><prosody rate="medium" pitch="5st">"Of course I care. You're my family.".wav|Of course I care. You're my family.|0
+./speech-training-data/audio/309_<speak><prosody rate="medium" pitch="5st">"Am I worth so little to you?".wav|Am I worth so little to you?|0
+./speech-training-data/audio/236_<speak><prosody rate="medium" pitch="5st">"Whatever you're going to ask the answer is no.".wav|Whatever you're going to ask the answer is no.|0
+./speech-training-data/audio/54_<speak><prosody rate="medium" pitch="5st">"How can I possibly trust you? After all you've done.".wav|How can I possibly trust you? After all you've done.|0
+./speech-training-data/audio/249_<speak><prosody rate="medium" pitch="5st">"I did warn you not to trust me.".wav|I did warn you not to trust me.|0
+./speech-training-data/audio/15_<speak><prosody rate="medium" pitch="5st">"Where did we go wrong?".wav|Where did we go wrong?|0
+./speech-training-data/audio/80_<speak><prosody rate="medium" pitch="5st">"I trust that you'll be on your best behavior tonight?".wav|I trust that you'll be on your best behavior tonight?|0
+./speech-training-data/audio/241_<speak><prosody rate="medium" pitch="5st">"What can I do to convince you?".wav|What can I do to convince you?|0
+./speech-training-data/audio/274_<speak><prosody rate="medium" pitch="5st">"You shouldn't insult people that are bigger than you.".wav|You shouldn't insult people that are bigger than you.|0
+./speech-training-data/audio/218_<speak><prosody rate="medium" pitch="5st">"Seriously what is that thing over there?!".wav|Seriously what is that thing over there?!|0
+./speech-training-data/audio/204_<speak><prosody rate="medium" pitch="5st">"Do you ever hear yourself?".wav|Do you ever hear yourself?|0
+./speech-training-data/audio/238_<speak><prosody rate="medium" pitch="5st">"You've got guts I'll give you that.".wav|You've got guts I'll give you that.|0
+./speech-training-data/audio/448_<speak><prosody rate="medium" pitch="5st">"I'm not sober enough to talk about this.".wav|I'm not sober enough to talk about this.|0
+./speech-training-data/audio/48_<speak><prosody rate="medium" pitch="5st">"You shouldn't have come back.".wav|You shouldn't have come back.|0
+./speech-training-data/audio/410_<speak><prosody rate="medium" pitch="5st">"You refuse to tell me where you're going?".wav|You refuse to tell me where you're going?|0
+./speech-training-data/audio/245_<speak><prosody rate="medium" pitch="5st">"Do you want to come in?".wav|Do you want to come in?|0
+./speech-training-data/audio/442_<speak><prosody rate="medium" pitch="5st">"Are you going to keep looking at me like that or are you actually going to kiss me?".wav|Are you going to keep looking at me like that or are you actually going to kiss me?|0
+./speech-training-data/audio/491_<speak><prosody rate="medium" pitch="5st">"How much do you wanna bet?".wav|How much do you wanna bet?|0
+./speech-training-data/audio/444_<speak><prosody rate="medium" pitch="5st">"You're afraid of the dark?".wav|You're afraid of the dark?|0
+./speech-training-data/audio/400_<speak><prosody rate="medium" pitch="5st">"Are you wearing my shirt?".wav|Are you wearing my shirt?|0
+./speech-training-data/audio/243_<speak><prosody rate="medium" pitch="5st">"I'm trying to start a new life.".wav|I'm trying to start a new life.|0
+./speech-training-data/audio/139_<speak><prosody rate="medium" pitch="5st">"Why can't we all just get along?".wav|Why can't we all just get along?|0
+./speech-training-data/audio/168_<speak><prosody rate="medium" pitch="5st">"I must warn you I won't go easy on you this time.".wav|I must warn you I won't go easy on you this time.|0
+./speech-training-data/audio/287_<speak><prosody rate="medium" pitch="5st">"You never cared about me. I was just useful to you.".wav|You never cared about me. I was just useful to you.|0
+./speech-training-data/audio/150_<speak><prosody rate="medium" pitch="5st">"Why can't you look me in the eye?".wav|Why can't you look me in the eye?|0
+./speech-training-data/audio/247_<speak><prosody rate="medium" pitch="5st">"Who do you fight for?".wav|Who do you fight for?|0
+./speech-training-data/audio/494_<speak><prosody rate="medium" pitch="5st">"I thought you died.".wav|I thought you died.|0
+./speech-training-data/audio/424_<speak><prosody rate="medium" pitch="5st">"You could've killed me!".wav|You could've killed me!|0
+./speech-training-data/audio/260_<speak><prosody rate="medium" pitch="5st">"Stop telling me to calm down!".wav|Stop telling me to calm down!|0
+./speech-training-data/audio/181_<speak><prosody rate="medium" pitch="5st">"You remember me. That's good.".wav|You remember me. That's good.|0
+./speech-training-data/audio/392_<speak><prosody rate="medium" pitch="5st">"You must be new around here.".wav|You must be new around here.|0
+./speech-training-data/audio/68_<speak><prosody rate="medium" pitch="5st">"There's a reason I keep this door closed.".wav|There's a reason I keep this door closed.|0
+./speech-training-data/audio/282_<speak><prosody rate="medium" pitch="5st">"You think you're so much better than me don't you?".wav|You think you're so much better than me don't you?|0
+./speech-training-data/audio/124_<speak><prosody rate="medium" pitch="5st">"Why are you so concerned about me?".wav|Why are you so concerned about me?|0
+./speech-training-data/audio/407_<speak><prosody rate="medium" pitch="5st">"I can't even trust myself anymore.".wav|I can't even trust myself anymore.|0
+./speech-training-data/audio/259_<speak><prosody rate="medium" pitch="5st">"I need you to trust me.".wav|I need you to trust me.|0
+./speech-training-data/audio/366_<speak><prosody rate="medium" pitch="5st">"What was that for?".wav|What was that for?|0
+./speech-training-data/audio/137_<speak><prosody rate="medium" pitch="5st">"I told you to leave me out of this.".wav|I told you to leave me out of this.|0
+./speech-training-data/audio/134_<speak><prosody rate="medium" pitch="5st">"What happened to you where have you been?!".wav|What happened to you where have you been?!|0
+./speech-training-data/audio/109_<speak><prosody rate="medium" pitch="5st">"I see you don't recognize me. Well it was a long time ago.".wav|I see you don't recognize me. Well it was a long time ago.|0
+./speech-training-data/audio/17_<speak><prosody rate="medium" pitch="5st">"We are definitely not supposed to be here.".wav|We are definitely not supposed to be here.|0
+./speech-training-data/audio/194_<speak><prosody rate="medium" pitch="5st">"Who did you piss off this time?".wav|Who did you piss off this time?|0
+./speech-training-data/audio/426_<speak><prosody rate="medium" pitch="5st">"You embarrassed me this evening.".wav|You embarrassed me this evening.|0
+./speech-training-data/audio/267_<speak><prosody rate="medium" pitch="5st">"I'm afraid I'm going to have to tie you up.".wav|I'm afraid I'm going to have to tie you up.|0
+./speech-training-data/audio/36_<speak><prosody rate="medium" pitch="5st">"Some risks are worth taking.".wav|Some risks are worth taking.|0
+./speech-training-data/audio/335_<speak><prosody rate="medium" pitch="5st">"Don't act like you know me.".wav|Don't act like you know me.|0
+./speech-training-data/audio/390_<speak><prosody rate="medium" pitch="5st">"That is not an appropriate question to ask a lady you've just met.".wav|That is not an appropriate question to ask a lady you've just met.|0
+./speech-training-data/audio/31_<speak><prosody rate="medium" pitch="5st">"Did you miss me?".wav|Did you miss me?|0
+./speech-training-data/audio/425_<speak><prosody rate="medium" pitch="5st">"I can't give you what you want.".wav|I can't give you what you want.|0
+./speech-training-data/audio/376_<speak><prosody rate="medium" pitch="5st">"Why are you really here?".wav|Why are you really here?|0
+./speech-training-data/audio/292_<speak><prosody rate="medium" pitch="5st">"You're the reason why I came back.".wav|You're the reason why I came back.|0
+./speech-training-data/audio/162_<speak><prosody rate="medium" pitch="5st">"When was the last time you slept?".wav|When was the last time you slept?|0
+./speech-training-data/audio/172_<speak><prosody rate="medium" pitch="5st">"Well don't stand there in the rain. Come on.".wav|Well don't stand there in the rain. Come on.|0
+./speech-training-data/audio/98_<speak><prosody rate="medium" pitch="5st">"You want me? Here I am.".wav|You want me? Here I am.|0
+./speech-training-data/audio/213_<speak><prosody rate="medium" pitch="5st">"You can't decide what's best for someone else.".wav|You can't decide what's best for someone else.|0
+./speech-training-data/audio/120_<speak><prosody rate="medium" pitch="5st">"Find someone else to listen to your problems.".wav|Find someone else to listen to your problems.|0
+./speech-training-data/audio/2_<speak><prosody rate="medium" pitch="5st">"There has to be another way.".wav|There has to be another way.|0
+./speech-training-data/audio/261_<speak><prosody rate="medium" pitch="5st">"Have you come to laugh at me in my miserable state?".wav|Have you come to laugh at me in my miserable state?|0
+./speech-training-data/audio/495_<speak><prosody rate="medium" pitch="5st">"Let me buy you another drink.".wav|Let me buy you another drink.|0
+./speech-training-data/audio/6_<speak><prosody rate="medium" pitch="5st">"Why should I trust you?".wav|Why should I trust you?|0
+./speech-training-data/audio/440_<speak><prosody rate="medium" pitch="5st">"You know you're really cute.".wav|You know you're really cute.|0
+./speech-training-data/audio/480_<speak><prosody rate="medium" pitch="5st">"We're going to have to stay here tonight.".wav|We're going to have to stay here tonight.|0
+./speech-training-data/audio/129_<speak><prosody rate="medium" pitch="5st">"Hey is this asshole bothering you?".wav|Hey is this asshole bothering you?|0
+./speech-training-data/audio/423_<speak><prosody rate="medium" pitch="5st">"It doesn't always have to be you you know? Your shoulders aren't the only ones that can bear the weight of the world.".wav|It doesn't always have to be you you know? Your shoulders aren't the only ones that can bear the weight of the world.|0
+./speech-training-data/audio/398_<speak><prosody rate="medium" pitch="5st">"Wait. I've heard that sound before.".wav|Wait. I've heard that sound before.|0
+./speech-training-data/audio/62_<speak><prosody rate="medium" pitch="5st">"What now? I'm tired.".wav|What now? I'm tired.|0
+./speech-training-data/audio/270_<speak><prosody rate="medium" pitch="5st">"I hate to ask but could I use your phone?".wav|I hate to ask but could I use your phone?|0
+./speech-training-data/audio/3_<speak><prosody rate="medium" pitch="5st">"You snore in your sleep. It's adorable.".wav|You snore in your sleep. It's adorable.|0
+./speech-training-data/audio/264_<speak><prosody rate="medium" pitch="5st">"What's that smug look for? You think you can do any better?".wav|What's that smug look for? You think you can do any better?|0
+./speech-training-data/audio/210_<speak><prosody rate="medium" pitch="5st">"Don't make me go by myself.".wav|Don't make me go by myself.|0
+./speech-training-data/audio/303_<speak><prosody rate="medium" pitch="5st">"I don't know. Shut up. I'm not blushing.".wav|I don't know. Shut up. I'm not blushing.|0
+./speech-training-data/audio/490_<speak><prosody rate="medium" pitch="5st">"I'm not usually like this I'm sorry.".wav|I'm not usually like this I'm sorry.|0
+./speech-training-data/audio/258_<speak><prosody rate="medium" pitch="5st">"Where am I supposed to go?".wav|Where am I supposed to go?|0
+./speech-training-data/audio/152_<speak><prosody rate="medium" pitch="5st">"We're a team now. We'll help each other out.".wav|We're a team now. We'll help each other out.|0
+./speech-training-data/audio/175_<speak><prosody rate="medium" pitch="5st">"Why would you help me?".wav|Why would you help me?|0
+./speech-training-data/audio/235_<speak><prosody rate="medium" pitch="5st">"I bought two. Here.".wav|I bought two. Here.|0
+./speech-training-data/audio/121_<speak><prosody rate="medium" pitch="5st">"I know you're dangerous but I also know you won't hurt me.".wav|I know you're dangerous but I also know you won't hurt me.|0
+./speech-training-data/audio/94_<speak><prosody rate="medium" pitch="5st">"Have a drink with me.".wav|Have a drink with me.|0
+./speech-training-data/audio/127_<speak><prosody rate="medium" pitch="5st">"I've been having weird dreams.".wav|I've been having weird dreams.|0
+./speech-training-data/audio/460_<speak><prosody rate="medium" pitch="5st">"It won't be easy that's for sure.".wav|It won't be easy that's for sure.|0
+./speech-training-data/audio/350_<speak><prosody rate="medium" pitch="5st">"We're not so different after all.".wav|We're not so different after all.|0
+./speech-training-data/audio/24_<speak><prosody rate="medium" pitch="5st">"I just need a moment to catch my breath.".wav|I just need a moment to catch my breath.|0
+./speech-training-data/audio/4_<speak><prosody rate="medium" pitch="5st">"I think I might've broken something...".wav|I think I might've broken something...|0
+./speech-training-data/audio/86_<speak><prosody rate="medium" pitch="5st">"Why don't you want to go home?".wav|Why don't you want to go home?|0
+./speech-training-data/audio/322_<speak><prosody rate="medium" pitch="5st">"I'm sorry I'm not what you think I am.".wav|I'm sorry I'm not what you think I am.|0
+./speech-training-data/audio/202_<speak><prosody rate="medium" pitch="5st">"If we both stick to the story they can't prove anything.".wav|If we both stick to the story they can't prove anything.|0
+./speech-training-data/audio/382_<speak><prosody rate="medium" pitch="5st">"My head is killing me.".wav|My head is killing me.|0
+./speech-training-data/audio/330_<speak><prosody rate="medium" pitch="5st">"You're about as intimidating as a butterfly.".wav|You're about as intimidating as a butterfly.|0
+./speech-training-data/audio/329_<speak><prosody rate="medium" pitch="5st">"You must be lonesome over here by yourself.".wav|You must be lonesome over here by yourself.|0
+./speech-training-data/audio/126_<speak><prosody rate="medium" pitch="5st">"We're locked in!".wav|We're locked in!|0
+./speech-training-data/audio/148_<speak><prosody rate="medium" pitch="5st">"We're in completely different leagues.".wav|We're in completely different leagues.|0
+./speech-training-data/audio/89_<speak><prosody rate="medium" pitch="5st">"There's always going to be someone who wants to knock you down.".wav|There's always going to be someone who wants to knock you down.|0
+./speech-training-data/audio/286_<speak><prosody rate="medium" pitch="5st">"You'll be no help to anyone if you run yourself into the ground.".wav|You'll be no help to anyone if you run yourself into the ground.|0
+./speech-training-data/audio/304_<speak><prosody rate="medium" pitch="5st">"Promise me you won't overreact.".wav|Promise me you won't overreact.|0
+./speech-training-data/audio/451_<speak><prosody rate="medium" pitch="5st">"We never should've kissed—that was our first mistake.".wav|We never should've kissed—that was our first mistake.|0
+./speech-training-data/audio/461_<speak><prosody rate="medium" pitch="5st">"You know you could go to jail for this.".wav|You know you could go to jail for this.|0
+./speech-training-data/audio/283_<speak><prosody rate="medium" pitch="5st">"I'll be here. When you're ready to talk.".wav|I'll be here. When you're ready to talk.|0
+./speech-training-data/audio/16_<speak><prosody rate="medium" pitch="5st">"I don't want to kill him but I will if I have to.".wav|I don't want to kill him but I will if I have to.|0
+./speech-training-data/audio/301_<speak><prosody rate="medium" pitch="5st">"We could leave you know. Go far away.".wav|We could leave you know. Go far away.|0
+./speech-training-data/audio/500_<speak><prosody rate="medium" pitch="5st">"Can you stop and listen to me for a second?".wav|Can you stop and listen to me for a second?|0
+./speech-training-data/audio/110_<speak><prosody rate="medium" pitch="5st">"Stop wallowing in self-pity.".wav|Stop wallowing in self-pity.|0
+./speech-training-data/audio/72_<speak><prosody rate="medium" pitch="5st">"I didn't realize you were in so much pain.".wav|I didn't realize you were in so much pain.|0
+./speech-training-data/audio/237_<speak><prosody rate="medium" pitch="5st">"I just wanted to say I'm sorry.".wav|I just wanted to say I'm sorry.|0
+./speech-training-data/audio/306_<speak><prosody rate="medium" pitch="5st">"You've been so quiet. What's on your mind?".wav|You've been so quiet. What's on your mind?|0
+./speech-training-data/audio/268_<speak><prosody rate="medium" pitch="5st">"I can't sleep.".wav|I can't sleep.|0
+./speech-training-data/audio/38_<speak><prosody rate="medium" pitch="5st">"If this is going to work you're going to have to trust me.".wav|If this is going to work you're going to have to trust me.|0
+./speech-training-data/audio/349_<speak><prosody rate="medium" pitch="5st">"You don't even know my name.".wav|You don't even know my name.|0
+./speech-training-data/audio/405_<speak><prosody rate="medium" pitch="5st">"I've lost so many people. I can't lose you too.".wav|I've lost so many people. I can't lose you too.|0
+./speech-training-data/audio/414_<speak><prosody rate="medium" pitch="5st">"It's incredible you're still single.".wav|It's incredible you're still single.|0
+./speech-training-data/audio/454_<speak><prosody rate="medium" pitch="5st">"You defeated it? Alone?".wav|You defeated it? Alone?|0
+./speech-training-data/audio/445_<speak><prosody rate="medium" pitch="5st">"What did you wish for?".wav|What did you wish for?|0
+./speech-training-data/audio/469_<speak><prosody rate="medium" pitch="5st">"Think of it as a compliment.".wav|Think of it as a compliment.|0
+./speech-training-data/audio/439_<speak><prosody rate="medium" pitch="5st">"I don't often get the chance to talk to someone like you.".wav|I don't often get the chance to talk to someone like you.|0
+./speech-training-data/audio/9_<speak><prosody rate="medium" pitch="5st">"I won't let anyone hurt you.".wav|I won't let anyone hurt you.|0
+./speech-training-data/audio/240_<speak><prosody rate="medium" pitch="5st">"I have a spare bed.".wav|I have a spare bed.|0
+./speech-training-data/audio/353_<speak><prosody rate="medium" pitch="5st">"I thought we'd be safe here.".wav|I thought we'd be safe here.|0
+./speech-training-data/audio/79_<speak><prosody rate="medium" pitch="5st">"You can't keep treating me this way!".wav|You can't keep treating me this way!|0
+./speech-training-data/audio/420_<speak><prosody rate="medium" pitch="5st">"Looking for something?".wav|Looking for something?|0
+./speech-training-data/audio/44_<speak><prosody rate="medium" pitch="5st">"Don't do that. Don't shut down on me.".wav|Don't do that. Don't shut down on me.|0
+./speech-training-data/audio/193_<speak><prosody rate="medium" pitch="5st">"Be nice to me it's my birthday.".wav|Be nice to me it's my birthday.|0
+./speech-training-data/audio/340_<speak><prosody rate="medium" pitch="5st">"Am I not good enough?".wav|Am I not good enough?|0
+./speech-training-data/audio/226_<speak><prosody rate="medium" pitch="5st">"I just thought since we're spending so much time together we might as well get to know each other a little better...".wav|I just thought since we're spending so much time together we might as well get to know each other a little better...|0
+./speech-training-data/audio/130_<speak><prosody rate="medium" pitch="5st">"You did this all by yourself?".wav|You did this all by yourself?|0
+./speech-training-data/audio/472_<speak><prosody rate="medium" pitch="5st">"Who did this to you?".wav|Who did this to you?|0
+./speech-training-data/audio/450_<speak><prosody rate="medium" pitch="5st">"Forget about me. Just save them.".wav|Forget about me. Just save them.|0
+./speech-training-data/audio/327_<speak><prosody rate="medium" pitch="5st">"Take your hands off me!".wav|Take your hands off me!|0
+./speech-training-data/audio/280_<speak><prosody rate="medium" pitch="5st">"There was nothing you could've done.".wav|There was nothing you could've done.|0
+./speech-training-data/audio/413_<speak><prosody rate="medium" pitch="5st">"I don't have a plan but we'll figure it out.".wav|I don't have a plan but we'll figure it out.|0
+./speech-training-data/audio/488_<speak><prosody rate="medium" pitch="5st">"I don't go away if you ignore me.".wav|I don't go away if you ignore me.|0
+./speech-training-data/audio/297_<speak><prosody rate="medium" pitch="5st">"I've come for you.".wav|I've come for you.|0
+./speech-training-data/audio/475_<speak><prosody rate="medium" pitch="5st">"Who the hell invited you?".wav|Who the hell invited you?|0
+./speech-training-data/audio/468_<speak><prosody rate="medium" pitch="5st">"You didn't have to walk me home.".wav|You didn't have to walk me home.|0
+./speech-training-data/audio/436_<speak><prosody rate="medium" pitch="5st">"Why are you looking at me like that?".wav|Why are you looking at me like that?|0
+./speech-training-data/audio/316_<speak><prosody rate="medium" pitch="5st">"Can you hear me? Hey! Can you hear my voice?".wav|Can you hear me? Hey! Can you hear my voice?|0
+./speech-training-data/audio/441_<speak><prosody rate="medium" pitch="5st">"I believe you.".wav|I believe you.|0
+./speech-training-data/audio/438_<speak><prosody rate="medium" pitch="5st">"I feel like I can't tell you anything.".wav|I feel like I can't tell you anything.|0
+./speech-training-data/audio/317_<speak><prosody rate="medium" pitch="5st">"This is wrong.".wav|This is wrong.|0
+./speech-training-data/audio/470_<speak><prosody rate="medium" pitch="5st">"The only time you talk to me is when you need something.".wav|The only time you talk to me is when you need something.|0
+./speech-training-data/audio/99_<speak><prosody rate="medium" pitch="5st">"Do you think last night was a mistake?".wav|Do you think last night was a mistake?|0
+./speech-training-data/audio/314_<speak><prosody rate="medium" pitch="5st">"I don't need your help.".wav|I don't need your help.|0
+./speech-training-data/audio/70_<speak><prosody rate="medium" pitch="5st">"If you tell me yours I'll tell you mine.".wav|If you tell me yours I'll tell you mine.|0
+./speech-training-data/audio/328_<speak><prosody rate="medium" pitch="5st">"You're not leaving again are you?".wav|You're not leaving again are you?|0
+./speech-training-data/audio/56_<speak><prosody rate="medium" pitch="5st">"I sleep better in your bed.".wav|I sleep better in your bed.|0
+./speech-training-data/audio/479_<speak><prosody rate="medium" pitch="5st">"There's got to be another way.".wav|There's got to be another way.|0
+./speech-training-data/audio/63_<speak><prosody rate="medium" pitch="5st">"You're late. As usual.".wav|You're late. As usual.|0
+./speech-training-data/audio/158_<speak><prosody rate="medium" pitch="5st">"Do you mind if I sleep here tonight?".wav|Do you mind if I sleep here tonight?|0
+./speech-training-data/audio/319_<speak><prosody rate="medium" pitch="5st">"Something's coming.".wav|Something's coming.|0
+./speech-training-data/audio/147_<speak><prosody rate="medium" pitch="5st">"We should get a pet.".wav|We should get a pet.|0
+./speech-training-data/audio/347_<speak><prosody rate="medium" pitch="5st">"Don't go. Please.".wav|Don't go. Please.|0
+./speech-training-data/audio/288_<speak><prosody rate="medium" pitch="5st">"You came back!".wav|You came back!|0
+./speech-training-data/audio/365_<speak><prosody rate="medium" pitch="5st">"Seems like I'm always saving your ass.".wav|Seems like I'm always saving your ass.|0
+./speech-training-data/audio/52_<speak><prosody rate="medium" pitch="5st">"So why's it so important anyway?".wav|So why's it so important anyway?|0
+./speech-training-data/audio/28_<speak><prosody rate="medium" pitch="5st">"Have you been following me?".wav|Have you been following me?|0
+./speech-training-data/audio/95_<speak><prosody rate="medium" pitch="5st">"All this anger and hate it's not good for you.".wav|All this anger and hate it's not good for you.|0
+./speech-training-data/audio/360_<speak><prosody rate="medium" pitch="5st">"I don't know how you do this every day...".wav|I don't know how you do this every day...|0
+./speech-training-data/audio/177_<speak><prosody rate="medium" pitch="5st">"I won't hate you. I know you think that's what you deserve but it's not.".wav|I won't hate you. I know you think that's what you deserve but it's not.|0
+./speech-training-data/audio/391_<speak><prosody rate="medium" pitch="5st">"You don't need to protect me.".wav|You don't need to protect me.|0
+./speech-training-data/audio/232_<speak><prosody rate="medium" pitch="5st">"There's just no going back right?".wav|There's just no going back right?|0
+./speech-training-data/audio/433_<speak><prosody rate="medium" pitch="5st">"That sounds dangerous. I'm in!".wav|That sounds dangerous. I'm in!|0
+./speech-training-data/audio/373_<speak><prosody rate="medium" pitch="5st">"You're leaving already?".wav|You're leaving already?|0
+./speech-training-data/audio/379_<speak><prosody rate="medium" pitch="5st">"You're not as funny as you think you are.".wav|You're not as funny as you think you are.|0
+./speech-training-data/audio/271_<speak><prosody rate="medium" pitch="5st">"It's perfectly safe! Safe-ish.".wav|It's perfectly safe! Safe-ish.|0
+./speech-training-data/audio/308_<speak><prosody rate="medium" pitch="5st">"I know you're trying your damnedest to be tough... but the truth is you're terrified.".wav|I know you're trying your damnedest to be tough... but the truth is you're terrified.|0
+./speech-training-data/audio/401_<speak><prosody rate="medium" pitch="5st">"Death is a part of life. I accepted that a long time ago.".wav|Death is a part of life. I accepted that a long time ago.|0
+./speech-training-data/audio/167_<speak><prosody rate="medium" pitch="5st">"This is going to hurt.".wav|This is going to hurt.|0
+./speech-training-data/audio/71_<speak><prosody rate="medium" pitch="5st">"Don't be naked. I'm coming in.".wav|Don't be naked. I'm coming in.|0
+./speech-training-data/audio/91_<speak><prosody rate="medium" pitch="5st">"You're too late.".wav|You're too late.|0
+./speech-training-data/audio/122_<speak><prosody rate="medium" pitch="5st">"Stay out of my business.".wav|Stay out of my business.|0
+./speech-training-data/audio/276_<speak><prosody rate="medium" pitch="5st">"I'm on your side.".wav|I'm on your side.|0
+./speech-training-data/audio/26_<speak><prosody rate="medium" pitch="5st">"I'm not interrupting anything am I?".wav|I'm not interrupting anything am I?|0
+./speech-training-data/audio/437_<speak><prosody rate="medium" pitch="5st">"You don't know who I am do you?".wav|You don't know who I am do you?|0
+./speech-training-data/audio/73_<speak><prosody rate="medium" pitch="5st">"Would you like a cup of tea?".wav|Would you like a cup of tea?|0
+./speech-training-data/audio/455_<speak><prosody rate="medium" pitch="5st">"I just need time.".wav|I just need time.|0
+./speech-training-data/audio/492_<speak><prosody rate="medium" pitch="5st">"You've got quite a reputation.".wav|You've got quite a reputation.|0
+./speech-training-data/audio/416_<speak><prosody rate="medium" pitch="5st">"Do you ever think about the future?".wav|Do you ever think about the future?|0
+./speech-training-data/audio/343_<speak><prosody rate="medium" pitch="5st">"Sorry I'm late I got caught up.".wav|Sorry I'm late I got caught up.|0
+./speech-training-data/audio/499_<speak><prosody rate="medium" pitch="5st">"It's fine. Nothing I haven't dealt with before.".wav|It's fine. Nothing I haven't dealt with before.|0
+./speech-training-data/audio/396_<speak><prosody rate="medium" pitch="5st">"Being strong doesn't mean never asking for help or admitting you're in pain.".wav|Being strong doesn't mean never asking for help or admitting you're in pain.|0
+./speech-training-data/audio/252_<speak><prosody rate="medium" pitch="5st">"I'm fine let me see your arm.".wav|I'm fine let me see your arm.|0
+./speech-training-data/audio/203_<speak><prosody rate="medium" pitch="5st">"You'll always have a home with me.".wav|You'll always have a home with me.|0
+./speech-training-data/audio/388_<speak><prosody rate="medium" pitch="5st">"I like seeing you smile.".wav|I like seeing you smile.|0
+./speech-training-data/audio/254_<speak><prosody rate="medium" pitch="5st">"You've never done this before have you?".wav|You've never done this before have you?|0
+./speech-training-data/audio/51_<speak><prosody rate="medium" pitch="5st">"I'll stay in tonight thanks.".wav|I'll stay in tonight thanks.|0
+./speech-training-data/audio/332_<speak><prosody rate="medium" pitch="5st">"I was worried something happened to you.".wav|I was worried something happened to you.|0
+./speech-training-data/audio/102_<speak><prosody rate="medium" pitch="5st">"You know I really hoped I'd never see this place again.".wav|You know I really hoped I'd never see this place again.|0
+./speech-training-data/audio/432_<speak><prosody rate="medium" pitch="5st">"You never should've left.".wav|You never should've left.|0
+./speech-training-data/audio/187_<speak><prosody rate="medium" pitch="5st">"Were you looking for this?".wav|Were you looking for this?|0
+./speech-training-data/audio/61_<speak><prosody rate="medium" pitch="5st">"I really thought you were gone this time.".wav|I really thought you were gone this time.|0
+./speech-training-data/audio/182_<speak><prosody rate="medium" pitch="5st">"I just want to take it all back.".wav|I just want to take it all back.|0
+./speech-training-data/audio/266_<speak><prosody rate="medium" pitch="5st">"What are you in the mood for?".wav|What are you in the mood for?|0
+./speech-training-data/audio/358_<speak><prosody rate="medium" pitch="5st">"I'm starting to think you like wasting my time.".wav|I'm starting to think you like wasting my time.|0
+./speech-training-data/audio/157_<speak><prosody rate="medium" pitch="5st">"What are you smiling at?".wav|What are you smiling at?|0
+./speech-training-data/audio/37_<speak><prosody rate="medium" pitch="5st">"How about you let me show you around?".wav|How about you let me show you around?|0
+./speech-training-data/audio/384_<speak><prosody rate="medium" pitch="5st">"Don't you fucking dare!".wav|Don't you fucking dare!|0
+./speech-training-data/audio/39_<speak><prosody rate="medium" pitch="5st">"Are we going to die?".wav|Are we going to die?|0
+./speech-training-data/audio/419_<speak><prosody rate="medium" pitch="5st">"You see everyone so clearly except yourself.".wav|You see everyone so clearly except yourself.|0
+./speech-training-data/audio/105_<speak><prosody rate="medium" pitch="5st">"You were dead I saw you die.".wav|You were dead I saw you die.|0
+./speech-training-data/audio/352_<speak><prosody rate="medium" pitch="5st">"How many times have I told you? You can't visit me here.".wav|How many times have I told you? You can't visit me here.|0
+./speech-training-data/audio/233_<speak><prosody rate="medium" pitch="5st">"How much do you value your life?".wav|How much do you value your life?|0
+./speech-training-data/audio/443_<speak><prosody rate="medium" pitch="5st">"Why aren't you scared of me?".wav|Why aren't you scared of me?|0
+./speech-training-data/audio/337_<speak><prosody rate="medium" pitch="5st">"I've got your back okay?".wav|I've got your back okay?|0
+./speech-training-data/audio/14_<speak><prosody rate="medium" pitch="5st">"What the hell were you thinking? You could've been killed!".wav|What the hell were you thinking? You could've been killed!|0
+./speech-training-data/audio/12_<speak><prosody rate="medium" pitch="5st">"You're not alone. I'm here.".wav|You're not alone. I'm here.|0
+./speech-training-data/audio/422_<speak><prosody rate="medium" pitch="5st">"Take a seat we're gonna be here a while.".wav|Take a seat we're gonna be here a while.|0
+./speech-training-data/audio/462_<speak><prosody rate="medium" pitch="5st">"How do you know my name?".wav|How do you know my name?|0
+./speech-training-data/audio/387_<speak><prosody rate="medium" pitch="5st">"Did you do something different with your hair?".wav|Did you do something different with your hair?|0
+./speech-training-data/audio/324_<speak><prosody rate="medium" pitch="5st">"You could have died you know.".wav|You could have died you know.|0
+./speech-training-data/audio/369_<speak><prosody rate="medium" pitch="5st">"I need your help... and you need mine.".wav|I need your help... and you need mine.|0
+./speech-training-data/audio/385_<speak><prosody rate="medium" pitch="5st">"What do these symbols mean?".wav|What do these symbols mean?|0
+./speech-training-data/audio/257_<speak><prosody rate="medium" pitch="5st">"You look ridiculous in that thing.".wav|You look ridiculous in that thing.|0
+./speech-training-data/audio/244_<speak><prosody rate="medium" pitch="5st">"None of this would've happened if you had just listened to me!".wav|None of this would've happened if you had just listened to me!|0
+./speech-training-data/audio/355_<speak><prosody rate="medium" pitch="5st">"You've lost a lot of blood.".wav|You've lost a lot of blood.|0
+./speech-training-data/audio/171_<speak><prosody rate="medium" pitch="5st">"Alcohol isn't going to solve your problems.".wav|Alcohol isn't going to solve your problems.|0
+./speech-training-data/audio/115_<speak><prosody rate="medium" pitch="5st">"You mad at me or something?".wav|You mad at me or something?|0
+./speech-training-data/audio/234_<speak><prosody rate="medium" pitch="5st">"Evacuate the civilians I'll buy you some time!".wav|Evacuate the civilians I'll buy you some time!|0
+./speech-training-data/audio/169_<speak><prosody rate="medium" pitch="5st">"You don't know when to give up do you?".wav|You don't know when to give up do you?|0
+./speech-training-data/audio/8_<speak><prosody rate="medium" pitch="5st">"See? I'm not just a pretty face.".wav|See? I'm not just a pretty face.|0
+./speech-training-data/audio/223_<speak><prosody rate="medium" pitch="5st">"Are you real? Is any of this real?".wav|Are you real? Is any of this real?|0
+./speech-training-data/audio/113_<speak><prosody rate="medium" pitch="5st">"Have you eaten anything today?".wav|Have you eaten anything today?|0
+./speech-training-data/audio/239_<speak><prosody rate="medium" pitch="5st">"You shouldn't be here.".wav|You shouldn't be here.|0
+./speech-training-data/audio/118_<speak><prosody rate="medium" pitch="5st">"We need to be careful.".wav|We need to be careful.|0
+./speech-training-data/audio/199_<speak><prosody rate="medium" pitch="5st">"I think we should stick together.".wav|I think we should stick together.|0
+./speech-training-data/audio/84_<speak><prosody rate="medium" pitch="5st">"Is that blood? Is it yours?".wav|Is that blood? Is it yours?|0
+./speech-training-data/audio/195_<speak><prosody rate="medium" pitch="5st">"I didn't know where else to go.".wav|I didn't know where else to go.|0
+./speech-training-data/audio/459_<speak><prosody rate="medium" pitch="5st">"You're not a very convincing liar.".wav|You're not a very convincing liar.|0
+./speech-training-data/audio/331_<speak><prosody rate="medium" pitch="5st">"Sometimes I think you must hate me.".wav|Sometimes I think you must hate me.|0
+./speech-training-data/audio/231_<speak><prosody rate="medium" pitch="5st">"It's not stealing if it was mine to begin with.".wav|It's not stealing if it was mine to begin with.|0
+./speech-training-data/audio/348_<speak><prosody rate="medium" pitch="5st">"Run! I'll hold them off.".wav|Run! I'll hold them off.|0
+./speech-training-data/audio/336_<speak><prosody rate="medium" pitch="5st">"Would you like something for the pain?".wav|Would you like something for the pain?|0
+./speech-training-data/audio/307_<speak><prosody rate="medium" pitch="5st">"It's not going to be easy you know.".wav|It's not going to be easy you know.|0
+./speech-training-data/audio/476_<speak><prosody rate="medium" pitch="5st">"Was that a friend of yours?".wav|Was that a friend of yours?|0
+./speech-training-data/audio/60_<speak><prosody rate="medium" pitch="5st">"Can't you see that I'm busy?".wav|Can't you see that I'm busy?|0
+./speech-training-data/audio/300_<speak><prosody rate="medium" pitch="5st">"You're hot when you're angry.".wav|You're hot when you're angry.|0
+./speech-training-data/audio/399_<speak><prosody rate="medium" pitch="5st">"I didn't want you to see me like this.".wav|I didn't want you to see me like this.|0
+./speech-training-data/audio/312_<speak><prosody rate="medium" pitch="5st">"Good morning sleeping beauty.".wav|Good morning sleeping beauty.|0
+./speech-training-data/audio/103_<speak><prosody rate="medium" pitch="5st">"Have you come to apologize?".wav|Have you come to apologize?|0
+./speech-training-data/audio/5_<speak><prosody rate="medium" pitch="5st">"I'm in the middle of something this better be urgent!".wav|I'm in the middle of something this better be urgent!|0
+./speech-training-data/audio/318_<speak><prosody rate="medium" pitch="5st">"Just try to hang on.".wav|Just try to hang on.|0
+./speech-training-data/audio/136_<speak><prosody rate="medium" pitch="5st">"You knew and you didn't tell me?".wav|You knew and you didn't tell me?|0
+./speech-training-data/audio/339_<speak><prosody rate="medium" pitch="5st">"Don't come any closer!".wav|Don't come any closer!|0
+./speech-training-data/audio/209_<speak><prosody rate="medium" pitch="5st">"Let go of me! I have to help them!".wav|Let go of me! I have to help them!|0
+./speech-training-data/audio/362_<speak><prosody rate="medium" pitch="5st">"I hope you haven't been standing out in the cold this whole time.".wav|I hope you haven't been standing out in the cold this whole time.|0
+./speech-training-data/audio/159_<speak><prosody rate="medium" pitch="5st">"Careful there someone might think you're actually starting to care.".wav|Careful there someone might think you're actually starting to care.|0
+./speech-training-data/audio/10_<speak><prosody rate="medium" pitch="5st">"Change isn't easy.".wav|Change isn't easy.|0
+./speech-training-data/audio/49_<speak><prosody rate="medium" pitch="5st">"I don't need your protection!".wav|I don't need your protection!|0
+./speech-training-data/audio/453_<speak><prosody rate="medium" pitch="5st">"I feel safe with you.".wav|I feel safe with you.|0
+./speech-training-data/audio/381_<speak><prosody rate="medium" pitch="5st">"No more lies no more secrets.".wav|No more lies no more secrets.|0
+./speech-training-data/audio/229_<speak><prosody rate="medium" pitch="5st">"You passed out.".wav|You passed out.|0
+./speech-training-data/audio/92_<speak><prosody rate="medium" pitch="5st">"Would you kill for me?".wav|Would you kill for me?|0
+./speech-training-data/audio/192_<speak><prosody rate="medium" pitch="5st">"Pull yourself together. We have work to do.".wav|Pull yourself together. We have work to do.|0
+./speech-training-data/audio/161_<speak><prosody rate="medium" pitch="5st">"You can't just show up here like this.".wav|You can't just show up here like this.|0
+./speech-training-data/audio/224_<speak><prosody rate="medium" pitch="5st">"Everyone's staring at us.".wav|Everyone's staring at us.|0
+./speech-training-data/audio/394_<speak><prosody rate="medium" pitch="5st">"Your secret's safe with me.".wav|Your secret's safe with me.|0
+./speech-training-data/audio/114_<speak><prosody rate="medium" pitch="5st">"I love watching you work.".wav|I love watching you work.|0
+./speech-training-data/audio/214_<speak><prosody rate="medium" pitch="5st">"I'm still learning.".wav|I'm still learning.|0
+./speech-training-data/audio/242_<speak><prosody rate="medium" pitch="5st">"Be patient with him. He's trying.".wav|Be patient with him. He's trying.|0
+./speech-training-data/audio/106_<speak><prosody rate="medium" pitch="5st">"Why are you helping me?".wav|Why are you helping me?|0
+./speech-training-data/audio/374_<speak><prosody rate="medium" pitch="5st">"Was it you? Did you do all this?".wav|Was it you? Did you do all this?|0
+./speech-training-data/audio/125_<speak><prosody rate="medium" pitch="5st">"How many more people need to die before you're satisfied?".wav|How many more people need to die before you're satisfied?|0
+./speech-training-data/audio/65_<speak><prosody rate="medium" pitch="5st">"I hope to repay your kindness someday.".wav|I hope to repay your kindness someday.|0
+./speech-training-data/audio/11_<speak><prosody rate="medium" pitch="5st">"I've been to many strange places... but this is a new one.".wav|I've been to many strange places... but this is a new one.|0
+./speech-training-data/audio/389_<speak><prosody rate="medium" pitch="5st">"You wanna know what your problem is?".wav|You wanna know what your problem is?|0
+./speech-training-data/audio/310_<speak><prosody rate="medium" pitch="5st">"When I said I'd kill for you I meant it.".wav|When I said I'd kill for you I meant it.|0
+./speech-training-data/audio/406_<speak><prosody rate="medium" pitch="5st">"I heard you were feeling sick so I made you some soup.".wav|I heard you were feeling sick so I made you some soup.|0
+./speech-training-data/audio/215_<speak><prosody rate="medium" pitch="5st">"Your plan's gonna get us all killed and you know it.".wav|Your plan's gonna get us all killed and you know it.|0
+./speech-training-data/audio/431_<speak><prosody rate="medium" pitch="5st">"I'm only helping you to make sure you don't fuck it up.".wav|I'm only helping you to make sure you don't fuck it up.|0
+./speech-training-data/audio/386_<speak><prosody rate="medium" pitch="5st">"Come put your head on my lap and tell me all about your day.".wav|Come put your head on my lap and tell me all about your day.|0
+./speech-training-data/audio/211_<speak><prosody rate="medium" pitch="5st">"Move and you die.".wav|Move and you die.|0
+./speech-training-data/audio/296_<speak><prosody rate="medium" pitch="5st">"You were talking in your sleep.".wav|You were talking in your sleep.|0
+./speech-training-data/audio/305_<speak><prosody rate="medium" pitch="5st">"Do you remember when we first met?".wav|Do you remember when we first met?|0
+./speech-training-data/audio/81_<speak><prosody rate="medium" pitch="5st">"Are you going to kill me?".wav|Are you going to kill me?|0
+./speech-training-data/audio/465_<speak><prosody rate="medium" pitch="5st">"I just want to belong somewhere again. Or to someone I guess.".wav|I just want to belong somewhere again. Or to someone I guess.|0
+./speech-training-data/audio/144_<speak><prosody rate="medium" pitch="5st">"You look better in my clothes than I do.".wav|You look better in my clothes than I do.|0
+./speech-training-data/audio/42_<speak><prosody rate="medium" pitch="5st">"I'm supposed to be the one protecting you.".wav|I'm supposed to be the one protecting you.|0
+./speech-training-data/audio/87_<speak><prosody rate="medium" pitch="5st">"What exactly do you do for a living?".wav|What exactly do you do for a living?|0
+./speech-training-data/audio/289_<speak><prosody rate="medium" pitch="5st">"We can share the bed. If that's not weird.".wav|We can share the bed. If that's not weird.|0
+./speech-training-data/audio/481_<speak><prosody rate="medium" pitch="5st">"I don't think we're supposed to be in here.".wav|I don't think we're supposed to be in here.|0
+./speech-training-data/audio/429_<speak><prosody rate="medium" pitch="5st">"Thank me after we get out of this alive.".wav|Thank me after we get out of this alive.|0
+./speech-training-data/audio/23_<speak><prosody rate="medium" pitch="5st">"Can you keep a secret?".wav|Can you keep a secret?|0
+./speech-training-data/audio/19_<speak><prosody rate="medium" pitch="5st">"Are you threatening me?".wav|Are you threatening me?|0
+./speech-training-data/audio/184_<speak><prosody rate="medium" pitch="5st">"You're not human are you?".wav|You're not human are you?|0
+./speech-training-data/audio/76_<speak><prosody rate="medium" pitch="5st">"This place seems strangely familiar...".wav|This place seems strangely familiar...|0
+./speech-training-data/audio/205_<speak><prosody rate="medium" pitch="5st">"I see you. I know you're watching me.".wav|I see you. I know you're watching me.|0
+./speech-training-data/audio/411_<speak><prosody rate="medium" pitch="5st">"I can't do this without you.".wav|I can't do this without you.|0
+./speech-training-data/audio/1_<speak><prosody rate="medium" pitch="5st">"I know someone who could help.".wav|I know someone who could help.|0
+./speech-training-data/audio/165_<speak><prosody rate="medium" pitch="5st">"Come back to bed.".wav|Come back to bed.|0
+./speech-training-data/audio/383_<speak><prosody rate="medium" pitch="5st">"Hold still this might sting a little.".wav|Hold still this might sting a little.|0
+./speech-training-data/audio/111_<speak><prosody rate="medium" pitch="5st">"Is being drunk an excuse?".wav|Is being drunk an excuse?|0
+./speech-training-data/audio/140_<speak><prosody rate="medium" pitch="5st">"Why can't I come with you?".wav|Why can't I come with you?|0
+./speech-training-data/audio/96_<speak><prosody rate="medium" pitch="5st">"It's not like you can stop me.".wav|It's not like you can stop me.|0
+./speech-training-data/audio/248_<speak><prosody rate="medium" pitch="5st">"Did you hear that? It sounded like a scream.".wav|Did you hear that? It sounded like a scream.|0
+./speech-training-data/audio/190_<speak><prosody rate="medium" pitch="5st">"Do whatever you have to do.".wav|Do whatever you have to do.|0
+./speech-training-data/audio/313_<speak><prosody rate="medium" pitch="5st">"I don't care what they say about me.".wav|I don't care what they say about me.|0
+./speech-training-data/audio/40_<speak><prosody rate="medium" pitch="5st">"Would you run away with me?".wav|Would you run away with me?|0
+./speech-training-data/audio/323_<speak><prosody rate="medium" pitch="5st">"How about I take you home?".wav|How about I take you home?|0
+./speech-training-data/audio/364_<speak><prosody rate="medium" pitch="5st">"You've been avoiding me.".wav|You've been avoiding me.|0
+./speech-training-data/audio/377_<speak><prosody rate="medium" pitch="5st">"You're lucky you're cute.".wav|You're lucky you're cute.|0
+./speech-training-data/audio/32_<speak><prosody rate="medium" pitch="5st">"I would appreciate it if we didn't discuss personal matters right now.".wav|I would appreciate it if we didn't discuss personal matters right now.|0
+./speech-training-data/audio/325_<speak><prosody rate="medium" pitch="5st">"How did you find me?".wav|How did you find me?|0
+./speech-training-data/audio/77_<speak><prosody rate="medium" pitch="5st">"Did you hurt yourself?".wav|Did you hurt yourself?|0
+./speech-training-data/audio/251_<speak><prosody rate="medium" pitch="5st">"I'm glad I could share this with you.".wav|I'm glad I could share this with you.|0
+./speech-training-data/audio/186_<speak><prosody rate="medium" pitch="5st">"What? You think I'm not qualified?".wav|What? You think I'm not qualified?|0
+./speech-training-data/audio/393_<speak><prosody rate="medium" pitch="5st">"You scared me.".wav|You scared me.|0
+./speech-training-data/audio/154_<speak><prosody rate="medium" pitch="5st">"I didn't think I'd find anyone else out here.".wav|I didn't think I'd find anyone else out here.|0
+./speech-training-data/audio/273_<speak><prosody rate="medium" pitch="5st">"I heard screams.".wav|I heard screams.|0
+./speech-training-data/audio/263_<speak><prosody rate="medium" pitch="5st">"Trust me these people are not your friends.".wav|Trust me these people are not your friends.|0
+./speech-training-data/audio/131_<speak><prosody rate="medium" pitch="5st">"Let me see that.".wav|Let me see that.|0
+./speech-training-data/audio/447_<speak><prosody rate="medium" pitch="5st">"In about a minute you'll be sorry you didn't listen to me.".wav|In about a minute you'll be sorry you didn't listen to me.|0
+./speech-training-data/audio/484_<speak><prosody rate="medium" pitch="5st">"I can't help you unless you talk to me.".wav|I can't help you unless you talk to me.|0
+./speech-training-data/audio/466_<speak><prosody rate="medium" pitch="5st">"I can't walk... You're gonna have to carry me.".wav|I can't walk... You're gonna have to carry me.|0
+./speech-training-data/audio/496_<speak><prosody rate="medium" pitch="5st">"Can we call it a day?".wav|Can we call it a day?|0
+./speech-training-data/audio/446_<speak><prosody rate="medium" pitch="5st">"I've seen you before walking by.".wav|I've seen you before walking by.|0
+./speech-training-data/audio/88_<speak><prosody rate="medium" pitch="5st">"Where does it hurt? Show me.".wav|Where does it hurt? Show me.|0
+./speech-training-data/audio/351_<speak><prosody rate="medium" pitch="5st">"You're not a bad person you're just a little lost.".wav|You're not a bad person you're just a little lost.|0
+./speech-training-data/audio/354_<speak><prosody rate="medium" pitch="5st">"Sometimes I really think you have a death wish.".wav|Sometimes I really think you have a death wish.|0
+./speech-training-data/audio/20_<speak><prosody rate="medium" pitch="5st">"What are you doing out here by yourself?".wav|What are you doing out here by yourself?|0
+./speech-training-data/audio/22_<speak><prosody rate="medium" pitch="5st">"I'm scared of what you're becoming.".wav|I'm scared of what you're becoming.|0
+./speech-training-data/audio/196_<speak><prosody rate="medium" pitch="5st">"You're not dating anyone are you?".wav|You're not dating anyone are you?|0
+./speech-training-data/audio/485_<speak><prosody rate="medium" pitch="5st">"I'm not afraid of you.".wav|I'm not afraid of you.|0
+./speech-training-data/audio/326_<speak><prosody rate="medium" pitch="5st">"You always see the good in people. Even me.".wav|You always see the good in people. Even me.|0
+./speech-training-data/audio/208_<speak><prosody rate="medium" pitch="5st">"Don't panic but I'm pretty sure we're being followed.".wav|Don't panic but I'm pretty sure we're being followed.|0
+./speech-training-data/audio/302_<speak><prosody rate="medium" pitch="5st">"I swear it wasn't me.".wav|I swear it wasn't me.|0
+./speech-training-data/audio/151_<speak><prosody rate="medium" pitch="5st">"Why are you still here?".wav|Why are you still here?|0
+./speech-training-data/audio/78_<speak><prosody rate="medium" pitch="5st">"It's four in the morning. What are you doing?".wav|It's four in the morning. What are you doing?|0
+./speech-training-data/audio/149_<speak><prosody rate="medium" pitch="5st">"I don't think I can do this anymore.".wav|I don't think I can do this anymore.|0
+./speech-training-data/audio/265_<speak><prosody rate="medium" pitch="5st">"Why do people call you that?".wav|Why do people call you that?|0
+./speech-training-data/audio/357_<speak><prosody rate="medium" pitch="5st">"Are you jealous? Want me all to yourself do you?".wav|Are you jealous? Want me all to yourself do you?|0
+./speech-training-data/audio/18_<speak><prosody rate="medium" pitch="5st">"Oh. You're naked. Okay.".wav|Oh. You're naked. Okay.|0
+./speech-training-data/audio/198_<speak><prosody rate="medium" pitch="5st">"I wish you'd take better care of yourself.".wav|I wish you'd take better care of yourself.|0
+./speech-training-data/audio/33_<speak><prosody rate="medium" pitch="5st">"How old do you think I am?".wav|How old do you think I am?|0
+./speech-training-data/audio/74_<speak><prosody rate="medium" pitch="5st">"Nobody tells me what to do.".wav|Nobody tells me what to do.|0
+./speech-training-data/audio/372_<speak><prosody rate="medium" pitch="5st">"There's never a bad time for ice cream.".wav|There's never a bad time for ice cream.|0
+./speech-training-data/audio/107_<speak><prosody rate="medium" pitch="5st">"Where are you going to go?".wav|Where are you going to go?|0
+./speech-training-data/audio/216_<speak><prosody rate="medium" pitch="5st">"This isn't happening... It's all in my head... It's just a dream...".wav|This isn't happening... It's all in my head... It's just a dream...|0
+./speech-training-data/audio/477_<speak><prosody rate="medium" pitch="5st">"We can stop them. I can help you.".wav|We can stop them. I can help you.|0
+./speech-training-data/audio/135_<speak><prosody rate="medium" pitch="5st">"You're being followed pretend you know me.".wav|You're being followed pretend you know me.|0
+./speech-training-data/audio/166_<speak><prosody rate="medium" pitch="5st">"You have to go somewhere safe.".wav|You have to go somewhere safe.|0
+./speech-training-data/audio/497_<speak><prosody rate="medium" pitch="5st">"You have no idea how happy I am to see you.".wav|You have no idea how happy I am to see you.|0
+./speech-training-data/audio/403_<speak><prosody rate="medium" pitch="5st">"Like what you see?".wav|Like what you see?|0
+./speech-training-data/audio/47_<speak><prosody rate="medium" pitch="5st">"He was unconscious when I found him.".wav|He was unconscious when I found him.|0
+./speech-training-data/audio/200_<speak><prosody rate="medium" pitch="5st">"I'm here to drink alone.".wav|I'm here to drink alone.|0
+./speech-training-data/audio/380_<speak><prosody rate="medium" pitch="5st">"I'm not sorry.".wav|I'm not sorry.|0
+./speech-training-data/audio/285_<speak><prosody rate="medium" pitch="5st">"Whatever they told you it's a lie.".wav|Whatever they told you it's a lie.|0
+./speech-training-data/audio/119_<speak><prosody rate="medium" pitch="5st">"Is that a challenge?".wav|Is that a challenge?|0
+./speech-training-data/audio/278_<speak><prosody rate="medium" pitch="5st">"We're safe aren't we?".wav|We're safe aren't we?|0
+./speech-training-data/audio/299_<speak><prosody rate="medium" pitch="5st">"You can never admit when you're wrong!".wav|You can never admit when you're wrong!|0
+./speech-training-data/audio/452_<speak><prosody rate="medium" pitch="5st">"You could've just used the door.".wav|You could've just used the door.|0
+./speech-training-data/audio/498_<speak><prosody rate="medium" pitch="5st">"You were put on this earth to give me a headache.".wav|You were put on this earth to give me a headache.|0
+./speech-training-data/audio/145_<speak><prosody rate="medium" pitch="5st">"When am I ever wrong?".wav|When am I ever wrong?|0
+./speech-training-data/audio/179_<speak><prosody rate="medium" pitch="5st">"You're lucky that I found you when I did.".wav|You're lucky that I found you when I did.|0
+./speech-training-data/audio/434_<speak><prosody rate="medium" pitch="5st">"You look like you just saw a ghost.".wav|You look like you just saw a ghost.|0
+./speech-training-data/audio/334_<speak><prosody rate="medium" pitch="5st">"You look like you need a hug.".wav|You look like you need a hug.|0
+./speech-training-data/audio/207_<speak><prosody rate="medium" pitch="5st">"You didn't really think you were safe did you?".wav|You didn't really think you were safe did you?|0
+./speech-training-data/audio/483_<speak><prosody rate="medium" pitch="5st">"Is this what you wanted?".wav|Is this what you wanted?|0
+./speech-training-data/audio/262_<speak><prosody rate="medium" pitch="5st">"May I have this dance?".wav|May I have this dance?|0
+./speech-training-data/audio/155_<speak><prosody rate="medium" pitch="5st">"Why did you help me?".wav|Why did you help me?|0
+./speech-training-data/audio/112_<speak><prosody rate="medium" pitch="5st">"Dangerous to be out so late.".wav|Dangerous to be out so late.|0
+./speech-training-data/audio/361_<speak><prosody rate="medium" pitch="5st">"I never thought I'd see you again.".wav|I never thought I'd see you again.|0
+./speech-training-data/audio/212_<speak><prosody rate="medium" pitch="5st">"It's nothing I'm just tired.".wav|It's nothing I'm just tired.|0
+./speech-training-data/audio/284_<speak><prosody rate="medium" pitch="5st">"I'm just saying murder is an option.".wav|I'm just saying murder is an option.|0
+./speech-training-data/audio/176_<speak><prosody rate="medium" pitch="5st">"You're not getting away this time.".wav|You're not getting away this time.|0
+./speech-training-data/audio/133_<speak><prosody rate="medium" pitch="5st">"You want me to punch him in the face?".wav|You want me to punch him in the face?|0
+./speech-training-data/audio/104_<speak><prosody rate="medium" pitch="5st">"What if I never see you again?".wav|What if I never see you again?|0
+./speech-training-data/audio/487_<speak><prosody rate="medium" pitch="5st">"How long have you been standing there?".wav|How long have you been standing there?|0
+./speech-training-data/audio/191_<speak><prosody rate="medium" pitch="5st">"You wanna mess around?".wav|You wanna mess around?|0
+./speech-training-data/audio/463_<speak><prosody rate="medium" pitch="5st">"Why are you pushing me away?".wav|Why are you pushing me away?|0
+./speech-training-data/audio/458_<speak><prosody rate="medium" pitch="5st">"Is it really you?".wav|Is it really you?|0
+./speech-training-data/audio/221_<speak><prosody rate="medium" pitch="5st">"We have to leave now!".wav|We have to leave now!|0
+./speech-training-data/audio/290_<speak><prosody rate="medium" pitch="5st">"Of all the people in the world I could end up stuck with...".wav|Of all the people in the world I could end up stuck with...|0
+./speech-training-data/audio/449_<speak><prosody rate="medium" pitch="5st">"I can't trust you anymore.".wav|I can't trust you anymore.|0
+./speech-training-data/audio/30_<speak><prosody rate="medium" pitch="5st">"There's no way I'm leaving you like this.".wav|There's no way I'm leaving you like this.|0
+./speech-training-data/audio/219_<speak><prosody rate="medium" pitch="5st">"We shouldn't stick around here.".wav|We shouldn't stick around here.|0
+./speech-training-data/audio/281_<speak><prosody rate="medium" pitch="5st">"Looks like we're stuck here.".wav|Looks like we're stuck here.|0
+./speech-training-data/audio/58_<speak><prosody rate="medium" pitch="5st">"This is for your own good.".wav|This is for your own good.|0
+./speech-training-data/audio/160_<speak><prosody rate="medium" pitch="5st">"When was the last time you ate something?".wav|When was the last time you ate something?|0
+./speech-training-data/audio/178_<speak><prosody rate="medium" pitch="5st">"That was really brave what you did back there. Stupid but brave.".wav|That was really brave what you did back there. Stupid but brave.|0
+./speech-training-data/audio/53_<speak><prosody rate="medium" pitch="5st">"Why are you pushing me away?".wav|Why are you pushing me away?|0
+./speech-training-data/audio/269_<speak><prosody rate="medium" pitch="5st">"It's too dark I can't see anything.".wav|It's too dark I can't see anything.|0
+./speech-training-data/audio/97_<speak><prosody rate="medium" pitch="5st">"That is... literally illegal. You're describing something illegal.".wav|That is... literally illegal. You're describing something illegal.|0
+./speech-training-data/audio/427_<speak><prosody rate="medium" pitch="5st">"I think we've been going around in circles.".wav|I think we've been going around in circles.|0
+./speech-training-data/audio/253_<speak><prosody rate="medium" pitch="5st">"Don't say I never did anything for you.".wav|Don't say I never did anything for you.|0
+./speech-training-data/audio/222_<speak><prosody rate="medium" pitch="5st">"We're wasting time.".wav|We're wasting time.|0
+./speech-training-data/audio/101_<speak><prosody rate="medium" pitch="5st">"I never noticed your eyes were this pretty.".wav|I never noticed your eyes were this pretty.|0
+./speech-training-data/audio/275_<speak><prosody rate="medium" pitch="5st">"You can't leave me here alone!".wav|You can't leave me here alone!|0
+./speech-training-data/audio/250_<speak><prosody rate="medium" pitch="5st">"Don't you see? I did all this for you.".wav|Don't you see? I did all this for you.|0
+./speech-training-data/audio/333_<speak><prosody rate="medium" pitch="5st">"We can just sit here you don't have to talk.".wav|We can just sit here you don't have to talk.|0
+./speech-training-data/audio/29_<speak><prosody rate="medium" pitch="5st">"I'll believe it when I see it.".wav|I'll believe it when I see it.|0
+./speech-training-data/audio/57_<speak><prosody rate="medium" pitch="5st">"You're so not my type.".wav|You're so not my type.|0
+./speech-training-data/audio/67_<speak><prosody rate="medium" pitch="5st">"Try not to look down okay?".wav|Try not to look down okay?|0
+./speech-training-data/audio/255_<speak><prosody rate="medium" pitch="5st">"I never wanted to hurt you.".wav|I never wanted to hurt you.|0
+./speech-training-data/audio/143_<speak><prosody rate="medium" pitch="5st">"Where I go and what I do is none of your business!".wav|Where I go and what I do is none of your business!|0
+./speech-training-data/audio/478_<speak><prosody rate="medium" pitch="5st">"Would you have believed me if I told you the truth?".wav|Would you have believed me if I told you the truth?|0
+./speech-training-data/audio/457_<speak><prosody rate="medium" pitch="5st">"Can I ask... what happened?".wav|Can I ask... what happened?|0
+./speech-training-data/audio/291_<speak><prosody rate="medium" pitch="5st">"Please don't do this don't act like you care.".wav|Please don't do this don't act like you care.|0
+./speech-training-data/audio/163_<speak><prosody rate="medium" pitch="5st">"I think the power is out.".wav|I think the power is out.|0
+./speech-training-data/audio/293_<speak><prosody rate="medium" pitch="5st">"I'm in the mood for pizza what do you think?".wav|I'm in the mood for pizza what do you think?|0
+./speech-training-data/audio/146_<speak><prosody rate="medium" pitch="5st">"I'm not leaving until you tell me what's going on.".wav|I'm not leaving until you tell me what's going on.|0
+./speech-training-data/audio/85_<speak><prosody rate="medium" pitch="5st">"I just thought you'd like some company.".wav|I just thought you'd like some company.|0
+./speech-training-data/audio/46_<speak><prosody rate="medium" pitch="5st">"I'll make you bleed.".wav|I'll make you bleed.|0
+./speech-training-data/audio/41_<speak><prosody rate="medium" pitch="5st">"Where did you go? Don't wander off like that!".wav|Where did you go? Don't wander off like that!|0
+./speech-training-data/audio/206_<speak><prosody rate="medium" pitch="5st">"I know I lied to you. You can hate me and it's all right.".wav|I know I lied to you. You can hate me and it's all right.|0
+./speech-training-data/audio/342_<speak><prosody rate="medium" pitch="5st">"How about a kiss before I go?".wav|How about a kiss before I go?|0
+./speech-training-data/audio/298_<speak><prosody rate="medium" pitch="5st">"You don't have to be nice to everybody.".wav|You don't have to be nice to everybody.|0
+./speech-training-data/audio/141_<speak><prosody rate="medium" pitch="5st">"Two years later and you haven't changed.".wav|Two years later and you haven't changed.|0
+./speech-training-data/audio/174_<speak><prosody rate="medium" pitch="5st">"Put me down! I don't like to be manhandled!".wav|Put me down! I don't like to be manhandled!|0
+./speech-training-data/audio/417_<speak><prosody rate="medium" pitch="5st">"You're just messing with me.".wav|You're just messing with me.|0
+./speech-training-data/audio/256_<speak><prosody rate="medium" pitch="5st">"Sometimes I really think you have a death wish.".wav|Sometimes I really think you have a death wish.|0
+./speech-training-data/audio/183_<speak><prosody rate="medium" pitch="5st">"Every great journey begins with a single footstep.".wav|Every great journey begins with a single footstep.|0
+./speech-training-data/audio/345_<speak><prosody rate="medium" pitch="5st">"I've always hated it.".wav|I've always hated it.|0
+./speech-training-data/audio/464_<speak><prosody rate="medium" pitch="5st">"We can't keep going on like this.".wav|We can't keep going on like this.|0
+./speech-training-data/audio/201_<speak><prosody rate="medium" pitch="5st">"You're kind of a mystery to me.".wav|You're kind of a mystery to me.|0
+./speech-training-data/audio/320_<speak><prosody rate="medium" pitch="5st">"How are you holding up?".wav|How are you holding up?|0
+./speech-training-data/audio/375_<speak><prosody rate="medium" pitch="5st">"That's a terrible story.".wav|That's a terrible story.|0
+./speech-training-data/audio/66_<speak><prosody rate="medium" pitch="5st">"I don't need you to understand I just need you to help me.".wav|I don't need you to understand I just need you to help me.|0
+./speech-training-data/audio/93_<speak><prosody rate="medium" pitch="5st">"Have you ever lost someone?".wav|Have you ever lost someone?|0
+./speech-training-data/audio/43_<speak><prosody rate="medium" pitch="5st">"Get out of my way I won't tell you again.".wav|Get out of my way I won't tell you again.|0
+./speech-training-data/audio/21_<speak><prosody rate="medium" pitch="5st">"What happened? I heard a crash.".wav|What happened? I heard a crash.|0
+./speech-training-data/audio/108_<speak><prosody rate="medium" pitch="5st">"Keep it. It looks better on you.".wav|Keep it. It looks better on you.|0
+./speech-training-data/audio/173_<speak><prosody rate="medium" pitch="5st">"I know you better than you think.".wav|I know you better than you think.|0
+./speech-training-data/audio/321_<speak><prosody rate="medium" pitch="5st">"Stop trying to hide your emotions from me.".wav|Stop trying to hide your emotions from me.|0
+./speech-training-data/audio/132_<speak><prosody rate="medium" pitch="5st">"You can do better than that.".wav|You can do better than that.|0
+./speech-training-data/audio/164_<speak><prosody rate="medium" pitch="5st">"What you don't have time for me anymore?".wav|What you don't have time for me anymore?|0
+./speech-training-data/audio/156_<speak><prosody rate="medium" pitch="5st">"Are you... smelling me?".wav|Are you... smelling me?|0
+./speech-training-data/audio/45_<speak><prosody rate="medium" pitch="5st">"It was my fault. It was all my fault.".wav|It was my fault. It was all my fault.|0
+./speech-training-data/audio/189_<speak><prosody rate="medium" pitch="5st">"Pretty and smart. We're gonna get along just fine.".wav|Pretty and smart. We're gonna get along just fine.|0
+./speech-training-data/audio/471_<speak><prosody rate="medium" pitch="5st">"I need to go. I can't be here.".wav|I need to go. I can't be here.|0
+./speech-training-data/audio/35_<speak><prosody rate="medium" pitch="5st">"I have so much I want to say to you.".wav|I have so much I want to say to you.|0
+./speech-training-data/audio/367_<speak><prosody rate="medium" pitch="5st">"Just admit it. We're lost.".wav|Just admit it. We're lost.|0
+./speech-training-data/audio/402_<speak><prosody rate="medium" pitch="5st">"What do you want in exchange for it?".wav|What do you want in exchange for it?|0
+./speech-training-data/audio/197_<speak><prosody rate="medium" pitch="5st">"You don't scare me.".wav|You don't scare me.|0
+./speech-training-data/audio/486_<speak><prosody rate="medium" pitch="5st">"Jealous? I'm not jealous!".wav|Jealous? I'm not jealous!|0
+./speech-training-data/audio/116_<speak><prosody rate="medium" pitch="5st">"I know I'm not the person you want but I'm here.".wav|I know I'm not the person you want but I'm here.|0
+./speech-training-data/audio/397_<speak><prosody rate="medium" pitch="5st">"You don't have to shout at me!".wav|You don't have to shout at me!|0
+./speech-training-data/audio/272_<speak><prosody rate="medium" pitch="5st">"Don't worry I'll get you home safe and sound.".wav|Don't worry I'll get you home safe and sound.|0
+./speech-training-data/audio/428_<speak><prosody rate="medium" pitch="5st">"I don't like the way they look at you.".wav|I don't like the way they look at you.|0
+./speech-training-data/audio/138_<speak><prosody rate="medium" pitch="5st">"I don't need your permission.".wav|I don't need your permission.|0
+./speech-training-data/audio/363_<speak><prosody rate="medium" pitch="5st">"Why did you come?".wav|Why did you come?|0
+./speech-training-data/audio/370_<speak><prosody rate="medium" pitch="5st">"Are you saying you care about me?".wav|Are you saying you care about me?|0
+./speech-training-data/audio/225_<speak><prosody rate="medium" pitch="5st">"You have no idea who I am do you?".wav|You have no idea who I am do you?|0
+./speech-training-data/audio/295_<speak><prosody rate="medium" pitch="5st">"You're very kind. Some day it'll get you killed.".wav|You're very kind. Some day it'll get you killed.|0
+./speech-training-data/audio/246_<speak><prosody rate="medium" pitch="5st">"Just let me do this for you.".wav|Just let me do this for you.|0
+./speech-training-data/audio/346_<speak><prosody rate="medium" pitch="5st">"Come on. It can't be that bad.".wav|Come on. It can't be that bad.|0
+./speech-training-data/audio/489_<speak><prosody rate="medium" pitch="5st">"You need to get out of here before anyone sees you.".wav|You need to get out of here before anyone sees you.|0
+./speech-training-data/audio/456_<speak><prosody rate="medium" pitch="5st">"I think I'm getting sick.".wav|I think I'm getting sick.|0
+./speech-training-data/audio/418_<speak><prosody rate="medium" pitch="5st">"Why are you being so stubborn?".wav|Why are you being so stubborn?|0
+./speech-training-data/audio/185_<speak><prosody rate="medium" pitch="5st">"C'mon. Aren't you worried what might happen if we go?".wav|C'mon. Aren't you worried what might happen if we go?|0
+./speech-training-data/audio/27_<speak><prosody rate="medium" pitch="5st">"You wouldn't understand.".wav|You wouldn't understand.|0
+./speech-training-data/audio/378_<speak><prosody rate="medium" pitch="5st">"You're causing a scene.".wav|You're causing a scene.|0
