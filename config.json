@@ -1,6 +1,6 @@
 {
     "train_config": {
-        "output_directory": "/outdir",
+        "output_directory": "outdir",
         "epochs": 10000000,
         "optim_algo": "RAdam",
         "learning_rate": 0.001,
@@ -44,7 +44,7 @@
         "max_wav_value": 32768.0,
         "use_attn_prior": true,
         "attn_prior_threshold": 0.0,
-        "prior_cache_path": "/attention_prior_cache",
+        "prior_cache_path": "attention_prior_cache",
         "betab_scaling_factor": 1.0,
         "keep_ambiguous": false
     },
