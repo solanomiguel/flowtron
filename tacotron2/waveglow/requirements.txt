@@ -3,7 +3,7 @@ matplotlib
 tensorflow
 numpy
 inflect
-librosa==0.6.3
+librosa==0.6.1
 scipy
 tensorboard
 Unidecode
