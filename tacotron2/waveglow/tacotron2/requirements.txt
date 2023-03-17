@@ -3,6 +3,7 @@ matplotlib==2.1.0
 tensorflow
 numpy==1.13.3
 inflect==0.2.5
+joblib==0.17.0
 librosa==0.6.3
 scipy==1.0.0
 tensorboardX==1.1

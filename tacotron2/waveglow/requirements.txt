@@ -3,6 +3,7 @@ matplotlib
 tensorflow
 numpy
 inflect
+joblib==0.17.0
 librosa==0.6.3
 scipy
 tensorboard
