@@ -2,7 +2,7 @@ matplotlib
 tensorflow==1.15.2
 numpy
 inflect
-librosa
+librosa==0.6.3
 scipy
 Unidecode
 pillow
